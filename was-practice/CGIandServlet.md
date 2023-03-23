@@ -28,3 +28,28 @@
 * 대표적인 WAS로는 톰캣이 있다.
 
 ![WebServiceArchitecture](https://user-images.githubusercontent.com/75296934/226836375-173faa53-7afd-458f-b200-312958d71ec5.PNG)
+
+### 2. 계산기 서블릿 만들기
+![계산기서블릿](https://user-images.githubusercontent.com/75296934/227069936-c2de3295-f368-4864-8806-ad3545c411f0.PNG)
+##### Servlet 인터페이스(호출규약)
+* 서블릿 컨테이너가 서블릿 인터페이스에 있는 메소드들을 호출함
+* 서블릿 생명주기와 관련된 메소드
+  * init()  
+    서블릿 컨테이너가 서블릿 생성후 초기화 작업을 수행하기 위해 호출하는 메서드
+  * service()  
+    클라이언트 요청이 들어올 때마다 서블릿 컨테이너가 호출 하는 메서드
+  * destroy()  
+    서블릿 컨테이너가 종료될 때 호출 되는 메서드
+* 서블릿 기타 메소드
+  * getServletConfig()  
+    서블릿 초기 설정 정보를 담고 있는 객체를 반환 하는 메서드  
+    서블릿 이름과 서블릿 초기 메게변수 값 등을 얻을 수 있다.
+  * getServletInfo()  
+    서블릿에 관한 정보를 반환하는 메서드
+
+##### Spring MVC Flow
+![springMVCflow](https://user-images.githubusercontent.com/75296934/227072263-b408fd18-3e11-4b47-8367-dfa21ac204d9.PNG)
+
+##### URL 인코딩(=퍼센트 인코딩)
+* URL로 사용할 수 없는 문자(예약어, Non-ASCII 문자(한글) 등)를 사용할 수 있도록 인코딩하는 것
+* 인코딩 된 문자는 triplet(세 개가 한 세트)로 인코딩 되며 각각을 % 다음에 두 개의 16진수로 표현함
