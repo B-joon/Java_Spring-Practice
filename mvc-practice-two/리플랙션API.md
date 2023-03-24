@@ -33,3 +33,11 @@
 
 ### 3. Forward vs Redirect
 ![ForwardVSRedirect](https://user-images.githubusercontent.com/75296934/227434615-58fe20d2-425f-484e-9691-647ca6471ddb.PNG)
+
+##### 스프링 웹 MVC 프레임워크
+![스프링웹MVC프레임워크](https://user-images.githubusercontent.com/75296934/227456941-1f8ecdb5-8af0-448a-9e06-c1d0cc4142b0.PNG)
+##### 어노테이션 기반 MVC 프레임워크
+* DispatcherServlet
+* AnnotationHandlerMapping
+* HandlerAdapter
+* ViewResolver
