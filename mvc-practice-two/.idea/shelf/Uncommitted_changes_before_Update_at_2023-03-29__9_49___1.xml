@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_2023-03-29_오후_9_49_[변경]1" date="1680094214038" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-03-29_오후_9_49_[변경]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2023-03-29 오후 9:49 [변경]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.4/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-03-29_오후_9_49_[변경]1/sha1-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/checksums/md5-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.4/checksums/md5-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-03-29_오후_9_49_[변경]1/md5-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../oop-practice/.gradle/7.4/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value="../oop-practice/.gradle/7.4/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-03-29_오후_9_49_[변경]1/checksums.lock" />
+  </binary>
+</changelist>

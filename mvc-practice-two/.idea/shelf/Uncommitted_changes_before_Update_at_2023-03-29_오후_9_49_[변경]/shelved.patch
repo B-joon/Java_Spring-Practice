@@ -1,0 +1,162 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ec88bcde-a037-48e2-87ba-c3a675929f85\" name=\"변경\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/compiler.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/DispatcherServlet.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/DispatcherServlet.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/RequestMappingHandlerMapping.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/RequestMappingHandlerMapping.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/controller/HandlerKey.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/controller/HandlerKey.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/controller/UserCreateController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/org/example/mvc/controller/UserCreateController.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/WebApplicationServer.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/WebApplicationServer.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Controller.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Controller.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMapping.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMapping.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMethod.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMethod.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Service.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Service.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HealthCheckController.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HealthCheckController.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeController.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeController.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeService.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeService.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/model/User.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/model/User.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/DispatcherServlet.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/DispatcherServlet.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/RequestMappingHandlerMapping.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/RequestMappingHandlerMapping.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/Controller.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/Controller.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/HomeController.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/HomeController.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <task path=\"$PROJECT_DIR$\">\r\n          <activation />\r\n        </task>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"mvc-practice-two\" type=\"f1a62948:ProjectNode\" />\r\n              </path>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"mvc-practice-two\" type=\"f1a62948:ProjectNode\" />\r\n                <item name=\"실행 구성\" type=\"7b0102dc:RunConfigurationsNode\" />\r\n              </path>\r\n            </expand>\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"AnnotationType\" />\r\n        <option value=\"XML File\" />\r\n        <option value=\"Interface\" />\r\n        <option value=\"Enum\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/build.gradle\" root0=\"FORCE_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/org/example/WebApplicationServer.java\" root0=\"FORCE_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2NRNlOh6u5DKj7oJ7hv1v0CBWVy\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"project.structure.last.edited\": \"프로젝트\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.254023\",\r\n    \"settings.editor.selected.configurable\": \"reference.projectsettings.compiler.javacompiler\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateClassDialog.RecentsKey\">\r\n      <recent name=\"org.example.mvc.controller\" />\r\n      <recent name=\"org.example.annotation\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"애플리케이션.WebApplicationServer\">\r\n    <configuration name=\"WebApplicationServer\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.example.WebApplicationServer\" />\r\n      <module name=\"mvc-practice-two.main\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ReflectionTest.controllerScan (1)\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\r\n      <ExternalSystemSettings>\r\n        <option name=\"executionName\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\r\n        <option name=\"scriptParameters\" value=\"\" />\r\n        <option name=\"taskDescriptions\">\r\n          <list />\r\n        </option>\r\n        <option name=\"taskNames\">\r\n          <list>\r\n            <option value=\":test\" />\r\n            <option value=\"--tests\" />\r\n            <option value=\"&quot;org.example.ReflectionTest.controllerScan&quot;\" />\r\n          </list>\r\n        </option>\r\n        <option name=\"vmOptions\" />\r\n      </ExternalSystemSettings>\r\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\r\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\r\n      <DebugAllEnabled>false</DebugAllEnabled>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ReflectionTest.load\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\r\n      <ExternalSystemSettings>\r\n        <option name=\"executionName\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\r\n        <option name=\"scriptParameters\" value=\"\" />\r\n        <option name=\"taskDescriptions\">\r\n          <list />\r\n        </option>\r\n        <option name=\"taskNames\">\r\n          <list>\r\n            <option value=\":test\" />\r\n            <option value=\"--tests\" />\r\n            <option value=\"&quot;org.example.ReflectionTest.load&quot;\" />\r\n          </list>\r\n        </option>\r\n        <option name=\"vmOptions\" />\r\n      </ExternalSystemSettings>\r\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\r\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\r\n      <DebugAllEnabled>false</DebugAllEnabled>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"mvc-practice-two [dependencies]\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\r\n      <ExternalSystemSettings>\r\n        <option name=\"executionName\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\r\n        <option name=\"scriptParameters\" />\r\n        <option name=\"taskDescriptions\">\r\n          <list />\r\n        </option>\r\n        <option name=\"taskNames\">\r\n          <list>\r\n            <option value=\"dependencies\" />\r\n          </list>\r\n        </option>\r\n        <option name=\"vmOptions\" />\r\n      </ExternalSystemSettings>\r\n      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>\r\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\r\n      <DebugAllEnabled>false</DebugAllEnabled>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"애플리케이션.WebApplicationServer\" />\r\n        <item itemvalue=\"Gradle.mvc-practice-two [dependencies]\" />\r\n        <item itemvalue=\"Gradle.ReflectionTest.load\" />\r\n        <item itemvalue=\"Gradle.ReflectionTest.controllerScan (1)\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\r\n      <changelist id=\"ec88bcde-a037-48e2-87ba-c3a675929f85\" name=\"변경\" comment=\"\" />\r\n      <created>1679623086883</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1679623086883</updated>\r\n      <workItem from=\"1679623088918\" duration=\"8840000\" />\r\n      <workItem from=\"1679639053217\" duration=\"20199000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,26 +5,16 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="ec88bcde-a037-48e2-87ba-c3a675929f85" name="변경" comment="">
++      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mvc/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mvc/DispatcherServlet.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mvc/RequestMappingHandlerMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mvc/RequestMappingHandlerMapping.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mvc/controller/HandlerKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mvc/controller/HandlerKey.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mvc/controller/UserCreateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mvc/controller/UserCreateController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/WebApplicationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/WebApplicationServer.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Controller.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMapping.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/RequestMethod.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/annotation/Service.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HealthCheckController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HealthCheckController.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeController.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/controller/HomeService.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/model/User.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/DispatcherServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/DispatcherServlet.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/RequestMappingHandlerMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/RequestMappingHandlerMapping.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/Controller.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/WEB-INF/classes/org/example/mvc/controller/HomeController.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../oop-practice/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../oop-practice/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../oop-practice/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-practice/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -74,7 +64,6 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+-    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
+@@ -91,28 +80,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "project.structure.last.edited": "프로젝트",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.254023",
+-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+-  }
+-}]]></component>
++  <component name="PropertiesComponent">
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.detected.package.tslint" value="true" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
++  </component>
+   <component name="RecentsManager">
+     <key name="CreateClassDialog.RecentsKey">
+       <recent name="org.example.mvc.controller" />
+       <recent name="org.example.annotation" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="애플리케이션.WebApplicationServer">
++  <component name="RunManager" selected="Application.WebApplicationServer">
+     <configuration name="WebApplicationServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="org.example.WebApplicationServer" />
+       <module name="mvc-practice-two.main" />
+@@ -195,7 +178,6 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="애플리케이션.WebApplicationServer" />
+         <item itemvalue="Gradle.mvc-practice-two [dependencies]" />
+         <item itemvalue="Gradle.ReflectionTest.load" />
+         <item itemvalue="Gradle.ReflectionTest.controllerScan (1)" />
+@@ -212,6 +194,7 @@
+       <updated>1679623086883</updated>
+       <workItem from="1679623088918" duration="8840000" />
+       <workItem from="1679639053217" duration="20199000" />
++      <workItem from="1679916874111" duration="4500000" />
+     </task>
+     <servers />
+   </component>
+Index: .idea/gradle.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"GradleSettings\">\r\n    <option name=\"linkedExternalProjectsSettings\">\r\n      <GradleProjectSettings>\r\n        <option name=\"delegatedBuild\" value=\"false\" />\r\n        <option name=\"testRunner\" value=\"PLATFORM\" />\r\n        <option name=\"distributionType\" value=\"DEFAULT_WRAPPED\" />\r\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\r\n        <option name=\"gradleJvm\" value=\"#JAVA_HOME\" />\r\n        <option name=\"modules\">\r\n          <set>\r\n            <option value=\"$PROJECT_DIR$\" />\r\n          </set>\r\n        </option>\r\n      </GradleProjectSettings>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/gradle.xml b/.idea/gradle.xml
+--- a/.idea/gradle.xml	
++++ b/.idea/gradle.xml	
+@@ -1,5 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="GradleMigrationSettings" migrationVersion="1" />
+   <component name="GradleSettings">
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"FrameworkDetectionExcludesConfiguration\">\r\n    <file type=\"web\" url=\"file://$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"11 (2)\" project-jdk-type=\"JavaSDK\" />\r\n  <component name=\"ProjectType\">\r\n    <option name=\"id\" value=\"jpab\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -4,7 +4,7 @@
+   <component name="FrameworkDetectionExcludesConfiguration">
+     <file type="web" url="file://$PROJECT_DIR$" />
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (2)" project-jdk-type="JavaSDK" />
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11 (2)" project-jdk-type="JavaSDK" />
+   <component name="ProjectType">
+     <option name="id" value="jpab" />
+   </component>
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CompilerConfiguration\">\r\n    <bytecodeTargetLevel target=\"11\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+--- a/.idea/compiler.xml	
++++ b/.idea/compiler.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="CompilerConfiguration">
+-    <bytecodeTargetLevel target="11" />
++    <bytecodeTargetLevel target="1.8" />
+   </component>
+ </project>
+\ No newline at end of file
