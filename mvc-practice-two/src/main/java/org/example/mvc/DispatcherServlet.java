@@ -3,6 +3,10 @@ package org.example.mvc;
 import org.example.mvc.controller.Controller;
 import org.example.mvc.controller.HandlerKey;
 import org.example.mvc.controller.RequestMethod;
+import org.example.mvc.view.JspViewResolver;
+import org.example.mvc.view.ModelAndView;
+import org.example.mvc.view.View;
+import org.example.mvc.view.ViewResolver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,17 +17,25 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
 
 // @WebServlet("/") <<<< 어떠한 경로로 들어와도 dispatcherServlet이 실행된다.
 @WebServlet("/")
 public class DispatcherServlet extends HttpServlet {
     private static final Logger log = LoggerFactory.getLogger(DispatcherServlet.class);
     private RequestMappingHandlerMapping rmhm;
+    private List<ViewResolver> viewResolvers;
+    private List<HandlerAdapter> handlerAdapters;
 
     @Override
     public void init() throws ServletException {
         rmhm = new RequestMappingHandlerMapping();
         rmhm.init();
+
+        handlerAdapters = List.of(new SimpleControllerHandlerAdapter());
+        viewResolvers = Collections.singletonList(new JspViewResolver());
     }
 
     @Override
@@ -36,8 +48,19 @@ public class DispatcherServlet extends HttpServlet {
                     rmhm.findHandler(new HandlerKey(RequestMethod.valueOf(request.getMethod()), request.getRequestURI()));
             String viewName = handler.handleRequest(request, response);
 
-            RequestDispatcher requestDispatcher = request.getRequestDispatcher(viewName);
-            requestDispatcher.forward(request, response);
+            HandlerAdapter handlerAdapter = handlerAdapters.stream()
+                    .filter(ha -> ha.supports(handler))
+                    .findFirst()
+                    .orElseThrow(() -> new ServletException("No adapter for handler [" + handler + "]"));
+
+            ModelAndView modelAndView = handlerAdapter.handle(request, response, handler);
+
+            for (ViewResolver viewResolver : viewResolvers) {
+                View view = viewResolver.resolveView(viewName);
+                view.render(modelAndView.getModel(), request, response);
+            }
+//            RequestDispatcher requestDispatcher = request.getRequestDispatcher(viewName);
+//            requestDispatcher.forward(request, response);
         } catch (Exception e) {
             log.error("exception occurred: [{}]", e.getMessage(), e);
             throw new ServletException(e);
